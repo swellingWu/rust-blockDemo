@@ -1,0 +1,13 @@
+/home/nep/newFile/blockchain/target/debug/deps/quote-8a1386f6aea1ec78.rmeta: /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/lib.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/ext.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/format.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/ident_fragment.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/to_tokens.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/runtime.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/spanned.rs
+
+/home/nep/newFile/blockchain/target/debug/deps/libquote-8a1386f6aea1ec78.rlib: /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/lib.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/ext.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/format.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/ident_fragment.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/to_tokens.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/runtime.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/spanned.rs
+
+/home/nep/newFile/blockchain/target/debug/deps/quote-8a1386f6aea1ec78.d: /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/lib.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/ext.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/format.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/ident_fragment.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/to_tokens.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/runtime.rs /home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/spanned.rs
+
+/home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/lib.rs:
+/home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/ext.rs:
+/home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/format.rs:
+/home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/ident_fragment.rs:
+/home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/to_tokens.rs:
+/home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/runtime.rs:
+/home/nep/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.17/src/spanned.rs:
